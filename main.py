@@ -137,7 +137,7 @@ status_label = tk.Label(main_frame, text="Status: Ready", font=("Helvetica", 9, 
 status_label.pack(pady=10)
 
 # Credits (Small and subtle)
-credits_label = tk.Label(root, text="Made by daniel (you know who i am)", font=("Helvetica", 8), bg="#f0f2f5", fg="#999999")
+credits_label = tk.Label(root, text="Made by daniel (me!!)", font=("Helvetica", 8), bg="#f0f2f5", fg="#999999")
 credits_label.pack(side="bottom", pady=10)
 
 root.mainloop()
